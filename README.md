@@ -1,6 +1,6 @@
 Take into consideration, 
 
-only rub feed.py for classification, paste the video directory when asked, then it will be classified with the valid conclusions
+only run feed.py for classification, paste the video directory when asked, then it will be classified with the valid conclusions
 
 but if you want to train the model yourself
 
