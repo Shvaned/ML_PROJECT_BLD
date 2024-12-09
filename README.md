@@ -1,5 +1,13 @@
 Take into consideration, 
 
+
+Launch app.py to set up local server, then launch run.py to use the program accordingly
+
+
+For a more advanced approach:
+
+Open your development environtment application and run the programs:
+
 only run feed.py for classification, paste the video directory when asked, then it will be classified with the valid conclusions
 
 but if you want to train the model yourself
