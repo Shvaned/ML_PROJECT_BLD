@@ -1,7 +1,7 @@
 
 Launch install.cmd to install packages
 Launch Execute.cmd to launch the analyzer, Upload a video on there
-
+Be patient, it may take time depending on hardware
 
 For a more advanced approach(NOT NECESSARY):
 
