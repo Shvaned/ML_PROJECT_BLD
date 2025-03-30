@@ -1,10 +1,9 @@
-Take into consideration, 
+
+Launch install.cmd to install packages
+Launch Execute.cmd to launch the analyzer, Upload a video on there
 
 
-Launch app.py to set up local server, then launch run.py to use the program accordingly
-
-
-For a more advanced approach:
+For a more advanced approach(NOT NECESSARY):
 
 Open your development environtment application and run the programs:
 
